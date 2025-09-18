@@ -2,16 +2,21 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1400px;
   border: 7px solid #238000;
   background-color: #c7f0c7;
   padding: 25px;
   gap: 20px;
 }
 
-.top-section,
+.top-section {
+  padding: 20px;
+  display: flex;
+  gap: 10px;
+  border: 7px solid #2000ff;
+}
 .bottom-section {
-  padding: 15px;
+  padding: 10px;
   display: flex;
   gap: 10px;
   border: 7px solid #2000ff;
