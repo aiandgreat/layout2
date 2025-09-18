@@ -10,4 +10,10 @@ html, body, #root {
 }
 body {
   background-color: #f0f0f0;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  max-width: 2000px;
+  margin: auto;
 }
